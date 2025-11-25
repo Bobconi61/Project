@@ -1,6 +1,6 @@
 # Proje Durumu
 Kodu android studioda çalıştırmak için fazladan dosyalar gerekebilir.  Bu durumda bana mesaj atarsınız.  
-  
+Her yeni ekleme ile burdaki kodları da güncelliyorrum.   
   
 25.11.2025  
 kodlar daha fazla optimize edildi.  
