@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- State when the button is disabled (booked) -->
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <solid android:color="#F44336" /> <!-- Red -->
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+
+    <!-- Default state (available) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#4CAF50" /> <!-- Green -->
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,31 @@
+bu bir türkiyedeki hastanelerden randevu alma sistemidir.
+BU sistemin çalışma aşamaları:
+Aşama 1:
+giriş ekranı, tc kimlik ve şifrelerin olduğu bir database kullanacak ve doğru bir girişin ardından
+hastane seçme ekranına atacaktır.
+Aşama 2:
+Hastane seçme ekranı il ve ilçeye bağlı olarak hastane seçmemizi sağlıyacaktır.
+bu ekran il ve ilçelere göre hastanelerin olduğu bir database kullanacaktır.
+Aşama 3:
+Seçilen Hastanenin sahip olduğu database kullanılarak kullanıcı kendisine uygun bir bölüm ve doktor
+seçecektir.
+Aşama 4:
+seçilen bölüme ve doktora göre randevu alınabilecek gün ve saatler verilecektir.
+Böylece kullanıcı 4 basit aşamada randevu alacaktır.
+
+NOT: her aşama kendinden önceki aşamaya gidebilmek için bir butona sahip olacaktır.
+
+Ekstralar 1:
+uygulamanın ayarlar sayfası olacaktır. ayarlar her aşamadan erişilebilir olacak.
+
+Ekstralar 2:
+Hangi bölümden randevu alacağını bilmiyen kullanıcılar için bilgilendirici bir sayfa aşama 3'de
+olacaktır.
+
+Ekstralar 3:
+giriş yaptıktan sonraki hastane seçilen sayfadan kullanıcının tüm randevularına bakabileceği
+bir sayfa olacaktır.
+
+Ekstralar 4:
+Kullanıcıların kayıt olabilceği ve admin olarak girecek bir kullanıcının veri setine doktor
+ve hastane eklemesini sağlayacak iki farklı sayfa olacaktır.

@@ -1,0 +1,22 @@
+TABLES:
+1. users:
+user_id
+id number
+password
+2. hospitals:
+county
+district
+hospital Name
+hospital id
+3. doctors:
+doctor id
+hospital
+doctorName
+department
+4. time intervals:
+doctor id (doctor's id that works in that time interval)
+date
+start time
+user_id (patients id if one is occupying that time interval)
+time interval id (key)
+available (available if no patient is occupying that time interval)
