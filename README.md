@@ -1,4 +1,4 @@
-# Proje
+# Proje Durumu
 Kodu android studioda çalıştırmak için fazladan dosyalar gerekebilir.  Bu durumda bana mesaj atarsınız.  
   
   
