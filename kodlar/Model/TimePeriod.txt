@@ -1,0 +1,5 @@
+saat 9:00 ile 12:00 ve 13:00 ile 16:00 arası randevu alınabilir.
+her randevu 5 dakikadır.
+her gün 72 zaman dilimine bölünür.
+her zaman matrixi 36 dilimden oluşur.
+her günün 2 zaman matrixi vardır.
