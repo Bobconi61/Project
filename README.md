@@ -2,6 +2,14 @@
 Kodu android studioda çalıştırmak için fazladan dosyalar gerekebilir.  Bu durumda bana mesaj atarsınız.  
 Her yeni ekleme ile burdaki kodları da güncelliyorrum.   
   
+09.12.2025  
+tüm arayüz yeniden daha modern olacak şekilde yeniden yapıldı.  
+database local sqllite'dan global firebase'e geçildi.  
+artık hiç randevu saati olmayan günlere buton ile gidilemez.  
+hangi bölümü seçmeliyim sayfası eklendi.  
+  
+  
+  
 25.11.2025  
 kodlar daha fazla optimize edildi.  
 randevu alma eklendi.  
